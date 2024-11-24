@@ -12,3 +12,4 @@
 
 - **[CoinCounter](https://github.com/ivanovot/CoinCounter)** — программа с графическим интерфейсом для подсчета суммы денег на фото с использованием методов компьютерного зрения.
 - **[QuckDrawGAN](https://github.com/ivanovot/QuckDrawGAN)** — модуль для обучения и использования генеративно-состязательной модели (GAN), генерирующей рисунки, обученные на данных Quick, Draw!.
+- **[ToxicClassifier](https://github.com/ivanovot/ToxicClassifier)** - NLP модель для классификации комментариев на русском языке на токсичные и не токсичные, опробовать модель можно [здесь](https://huggingface.co/spaces/ytkoa/RuCommensClass) 
