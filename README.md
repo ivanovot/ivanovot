@@ -11,20 +11,19 @@
 ## Мои проекты  
 
 ### [CoinCounter](https://github.com/ivanovot/CoinCounter)  
-**Описание:** Программа с графическим интерфейсом для подсчета суммы денег на изображении с использованием методов компьютерного зрения.  
+**Описание:** Модель выполняющая задачу детекции для подсчета суммы денег на изображении.  
 - Попробуйте модель [здесь](https://huggingface.co/spaces/ytkoa/CoinCounter).  
-**Ключевые технологии:** OpenCV, PyTorch, Tkinter.  
-
-### [QuickDrawGAN](https://github.com/ivanovot/QuckDrawGAN)  
-**Описание:** Генеративно-состязательная сеть (GAN) для генерации рисунков, обученная на данных **Quick, Draw!**.  
-- [Предобученная модель](https://huggingface.co/spaces/ytkoa/QuckDrawGAN) доступна для тестирования.  
-**Ключевые технологии:** PyTorch, TorchVision.  
+**Ключевые технологии:** OpenCV, PyTorch, YOLOv8.
 
 ### [ToxicClassifier](https://github.com/ivanovot/ToxicClassifier)  
 **Описание:** Модель обработки естественного языка (NLP) для классификации русскоязычных комментариев на токсичные и нетоксичные.  
 - Попробуйте модель [здесь](https://huggingface.co/spaces/ytkoa/RuCommensClass).  
 **Ключевые технологии:** PyTorch, Gradio, FastAPI 
 
+### [QuickDrawGAN](https://github.com/ivanovot/QuckDrawGAN)  
+**Описание:** Генеративно-состязательная сеть (GAN) для генерации рисунков, обученная на данных **Quick, Draw!**.  
+- [Предобученная модель](https://huggingface.co/spaces/ytkoa/QuckDrawGAN) доступна для тестирования.  
+**Ключевые технологии:** PyTorch, TorchVision.  
 ---
 
 ### ✉️ Как со мной связаться  
