@@ -12,6 +12,7 @@
 
 ### [CoinCounter](https://github.com/ivanovot/CoinCounter)  
 **Описание:** Программа с графическим интерфейсом для подсчета суммы денег на изображении с использованием методов компьютерного зрения.  
+- Попробуйте модель [здесь](https://huggingface.co/spaces/ytkoa/CoinCounter).  
 **Ключевые технологии:** OpenCV, PyTorch, Tkinter.  
 
 ### [QuickDrawGAN](https://github.com/ivanovot/QuckDrawGAN)  
