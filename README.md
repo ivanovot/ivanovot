@@ -18,7 +18,7 @@
 ### [ToxicClassifier](https://github.com/ivanovot/ToxicClassifier)  
 **Описание:** Модель обработки естественного языка (NLP) для классификации русскоязычных комментариев на токсичные и нетоксичные.  
 - Попробуйте модель [здесь](https://huggingface.co/spaces/ytkoa/RuCommensClass).  
-**Ключевые технологии:** PyTorch, Gradio, FastAPI 
+**Ключевые технологии:** PyTorch, Transformers, FastAPI,
 
 ### [QuickDrawGAN](https://github.com/ivanovot/QuckDrawGAN)  
 **Описание:** Генеративно-состязательная сеть (GAN) для генерации рисунков, обученная на данных **Quick, Draw!**.  
