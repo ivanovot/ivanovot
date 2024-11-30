@@ -4,9 +4,12 @@
 
 - **Python**  
 - Анализ данных: **NumPy**, **Pandas**, **Matplotlib**  
-- Машинное обучение: **Scikit-Learn**, **PyTorch**, **TorchVision**  
+- Машинное обучение:
+  - Основные инструменты: **Scikit-Learn**, **PyTorch**, **Transformers**  
+  - Компьютерное зрение (CV): **TorchVision**, **openCV2**  
+  - Обработка естественного языка (NLP): **Transformers**  
 - Веб-разработка: **FastAPI**, **Gradio**  
-- Разработка чат-ботов: **Aiogram**  
+- Разработка чат-ботов: **Aiogram**
 
 ## Мои проекты  
 
