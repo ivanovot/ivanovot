@@ -18,9 +18,9 @@
 - Попробуйте модель [здесь](https://huggingface.co/spaces/ytkoa/CoinCounter).  
 **Ключевые технологии:** OpenCV, PyTorch, YOLOv8.
 
-### [ToxicClassifier](https://github.com/ivanovot/ToxicClassifier)  
+### [TextClassifier](https://github.com/ivanovot/TextClassifier)  
 **Описание:** Модель обработки естественного языка (NLP) для классификации русскоязычных комментариев на токсичные и нетоксичные.  
-- Попробуйте модель [здесь](https://huggingface.co/spaces/ytkoa/RuCommensClass).  
+- Попробуйте модель [здесь](https://huggingface.co/spaces/ytkoa/TextClassifier).  
 **Ключевые технологии:** PyTorch, Transformers, FastAPI,
 
 ### [QuickDrawGAN](https://github.com/ivanovot/QuckDrawGAN)  
