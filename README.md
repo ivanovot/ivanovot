@@ -29,5 +29,5 @@
 **Ключевые технологии:** PyTorch, TorchVision.  
 ---
 
-### ✉️ Как со мной связаться  
+### Как со мной связаться  
 - **Telegram:** [https://t.me/Ytkoa](https://t.me/Ytkoa)    
