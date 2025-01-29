@@ -21,7 +21,7 @@
 ### [TextClassifier](https://github.com/ivanovot/TextClassifier)  
 **Описание:** Модель обработки естественного языка (NLP) для классификации русскоязычных комментариев на токсичные и нетоксичные.  
 - Попробуйте модель [здесь](https://huggingface.co/spaces/ytkoa/TextClassifier).  
-**Ключевые технологии:** PyTorch, Transformers, FastAPI,
+**Ключевые технологии:** PyTorch, Transformers, Gradio API,
 
 ### [QuickDrawGAN](https://github.com/ivanovot/QuckDrawGAN)  
 **Описание:** Генеративно-состязательная сеть (GAN) для генерации рисунков, обученная на данных **Quick, Draw!**.  
